@@ -18,4 +18,4 @@ python3 main.py --data_root /path/to/casual_dataset --save_root /path/to/save_pa
 ```
 
 ## Access
-We will release the download link of processed meta data soon.
+The download [link](https://drive.google.com/file/d/1KQoKnk6Be_6ReDu8jMkYFszw5k0Ui7hM/view?usp=sharing) is released.
